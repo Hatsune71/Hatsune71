@@ -1,0 +1,22 @@
+cd ur git
+cd <ur dir>
+
+select changes of modified files
+git ls-files --modified | xargs git add
+
+then add all of changes
+git add -u
+
+then set up git config 
+git config --global user.email "ur email"
+git config --global user.name "ur name"
+
+then add remote to ur github repo
+git remote add <name/any name should work> <ur repo url>
+
+then push
+git push <name u written on the upside command>
+
+Thats its now Completed
+
+                                Regards, Hatsune
