@@ -1,4 +1,4 @@
-# Hi! | Halo!
+## Halo! , おはようございます! , こんにちは! , こんばんは!
 
 ## Hatsune71 here!, Welcome to my GitHub Profile!
 
