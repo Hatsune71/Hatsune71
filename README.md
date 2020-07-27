@@ -1,8 +1,7 @@
 ## Halo! , おはようございます! , こんにちは! , こんばんは!
 
-<br/>
-## Hatsune71 here!, Welcome to my GitHub Profile!
 
+## Hatsune71 here!, Welcome to my GitHub Profile!
 
 <img align='left' src='https://raw.githubusercontent.com/Hatsune71/Hatsune71/master/miku.gif' width='310'>
 
