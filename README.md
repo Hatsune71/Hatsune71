@@ -4,6 +4,7 @@
 
 <img align='left' src='https://raw.githubusercontent.com/Hatsune71/Hatsune71/master/miku.gif'>
 
+<br/>
 ![Hatsune71's github stats](https://github-readme-stats.vercel.app/api?username=Hatsune71&show_icons=true)
 
 <div><p>The projects I am currently working on: </p></div>
