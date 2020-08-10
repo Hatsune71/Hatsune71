@@ -10,8 +10,7 @@
 
 <div><p>The projects I am currently working on: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hatsune71&repo=device_xiaomi_ysl)](https://github.com/Hatsune71/device_xiaomi_ysl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hatsune71&repo=device_xiaomi_msm8953-common-ysl)](https://github.com/Hatsune71/device_xiaomi_msm8953-common-ysl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NusantaraROM-Devices&repo=device_xiaomi_ysl)](https://github.com/NusantaraROM-Devices/device_xiaomi_ysl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hatsune71&repo=vendor_xiaomi_ysl)](https://github.com/Hatsune71/vendor_xiaomi_ysl)
 <br/>
 
