@@ -13,5 +13,4 @@ source ~/.bashrc
 ssh-keygen -t rsa -b 4096 -C "evraisecheat2@gmail.com"
 eval $(ssh-agent -s)
 ssh-add ~/.ssh/id_rsa
-
-
+cat $HOME/.ssh/id_rsa.pub
