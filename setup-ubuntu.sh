@@ -4,6 +4,8 @@ sudo apt-get install bison g++-multilib git gperf libxml2-utils make zlib1g-dev:
 mkdir ~/bin
 curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 chmod a+x ~/bin/repo
+sudo apt install ccache
+ccache -M 100G
 sudo echo "export PATH=~/bin:$PATH" >> ~/.bashrc
 source ~/.bashrc
 
