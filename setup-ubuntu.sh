@@ -9,3 +9,9 @@ ccache -M 100G
 sudo echo "export PATH=~/bin:$PATH" >> ~/.bashrc
 source ~/.bashrc
 
+# Generating SSH Keys Credits : Github
+ssh-keygen -t rsa -b 4096 -C "evraisecheat2@gmail.com"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+
+
